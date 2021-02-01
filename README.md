@@ -1,2 +1,3 @@
 # Dino Game
-Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
+Jogo do Dinossauro feito para aula da Digital Innovation One, usando-se apenas JavaScript, HTML e CSS.
+![](example.png)
